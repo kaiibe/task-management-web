@@ -1,5 +1,5 @@
 import "./App.css";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import Form from "./components/Form";
 import Task from "./components/Task";
 import TaskCounter from "./components/TaskCounter";
