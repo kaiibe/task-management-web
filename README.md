@@ -48,3 +48,9 @@
 Your application should now be running on http://localhost:3000/.
 
 ## Preview
+
+
+<img align="center" src="/src/assets/preview.png"/> 
+
+
+
