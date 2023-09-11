@@ -44,6 +44,11 @@
    ```sh
    npm run dev
    ```
+   or
+   ```sh
+   yarn dev
+   ```
+
 
 Your application should now be running on http://localhost:3000/.
 
